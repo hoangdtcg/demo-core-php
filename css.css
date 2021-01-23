@@ -1,0 +1,10 @@
+form {
+    width: 500px;
+    margin: auto;
+}
+
+input,select {
+    width: 98%;
+    margin-bottom: 10px;
+    height: 25px;
+}
